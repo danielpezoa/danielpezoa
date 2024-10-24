@@ -1,4 +1,4 @@
-## Hi there 👋
+## Voy a poner cosas útiles online en este lugar ... ya se verá que tan úntiles :) 
 
 <!--
 **danielpezoa/danielpezoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
